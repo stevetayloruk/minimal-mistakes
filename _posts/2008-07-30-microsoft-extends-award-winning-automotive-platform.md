@@ -1,0 +1,11 @@
+---
+title: "Microsoft Extends Award-Winning Automotive Platform"
+tags:
+  - Automotive
+---
+
+Microsoft have announced it will expand its automotive offering beyond software to include services. Microsoft’s Automotive Business Unit (ABU) continues to enhance in-vehicle experiences by providing automakers with new and innovative ways to meet increasing consumer expectations. As a key part of these innovations, Microsoft announces the immediate availability of Microsoft Live Search for Devices, the first of many new services for its automotive platforms. Live Search for Devices enables partners to develop applications, including local search services, for in-vehicle infotainment. Live Search for Devices will be available for easier implementation in Microsoft’s automotive platforms, Windows Automotive and future releases of Microsoft Auto.
+
+Microsoft has a history of delivering award-winning software platforms for in-vehicle systems that offer fresh and innovative infotainment experiences for consumers worldwide. As one of the fastest-growing businesses at Microsoft, Microsoft Auto and Windows Automotive help partners reduce time-to-market, control costs and provide flexible solutions for in-vehicle infotainment. Best known for providing the software that powers Ford SYNC in North America, Fiat Auto Group’s Blue & Me in Europe and South America, and state-of-the-art navigation's solutions developed by world-leading Japanese manufacturers, Microsoft is a committed software technology partner for the automotive industry. ABU is developing a platform targeted for release in 2009 that enhances Microsoft’s current in-vehicle products into an integrated automotive solution.  
+
+In what is a challenging time for the automotive industry, Microsoft is increasing its investment in the Automotive Business Unit by more than 30 percent this fiscal year. The commitment includes expanding its engineering resources for the in-vehicle software platforms that deliver new levels of partner innovation and create engaging, exciting experiences for consumers.
